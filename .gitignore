@@ -1,0 +1,6 @@
+/crudBackend/user_db.mv.db
+/crudBackend/.settings
+/crudBackend/target
+/crudBackend/.classpath
+/crudBackend/.project
+/crudBackend/user_db.trace.db

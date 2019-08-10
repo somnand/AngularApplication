@@ -29,7 +29,5 @@ public class CrudBackendApplication implements CommandLineRunner {
 		userRepository.save(new User("Jagath","Prabhu"));
 		userRepository.save(new User("Utkarsh","Jain"));
 		userRepository.save(new User("Rahul","Tarkar"));
-	}
-	
-	
+	}	
 }
